@@ -1,0 +1,4 @@
+http://rithmschool.com
+http://postgresql.com
+http://foozlemcblargh.com
+http://nodejs.org/api/console.html
